@@ -1,28 +1,62 @@
-# Chapter Outline
+# Chapter Outline — Petals of a Flower
 
-| Chapter | Title (Working) | POV | Location | Purpose | Status |
-|---------|-----------------|-----|----------|---------|--------|
-| 01 | First Petal |  |  | Establish | TODO |
-| 02 |  |  |  |  | TODO |
-| 03 |  |  |  |  | TODO |
-| 04 |  |  |  |  | TODO |
-| 05 |  |  |  |  | TODO |
-| 06 |  |  |  |  | TODO |
-| 07 |  |  |  |  | TODO |
-| 08 |  |  |  |  | TODO |
-| 09 |  |  |  |  | TODO |
-| 10 | Finale |  |  |  | TODO |
+**Total: 42 sections, ~150k words, 5 Petals**
 
-## Per-Chapter Beats
-### Chapter 01
-- Hook:
-- Key events:
-- Lore introduced:
-- Ends on:
-
-### Chapter 02
-...
+| # | Title | POV | Location | Purpose | Status |
+|---|-------|-----|----------|---------|--------|
+| P | Prologue: The Story of the Flower | Toroko (child) | Old Village 1yr ago | Arthur's folk tale, key, promise | TODO - gist has draft |
+| | **PETAL ONE — MEAL FLOWERS** | | | Daily life + inciting | |
+| 1 | Something on the Line | Kanpachi | Reservoir / Cradle | Sue rescued, Old Lord legend, green hair | TODO - gist has draft |
+| 2 | Soup | Sue | Arthur's House | Wakes wrong body, Toroko soup, King interrogation, lamplighter hook | TODO - gist has draft |
+| 3 | The Cradle | Toroko | Cradle | Tour: Yamashita Farm, Assembly Hall, Shack, Reservoir, Graveyard, 6 introduced | TODO |
+| 4 | The Big Village | Toroko/Sue | Old Village | Empty homes, Hozuki lamplighter, murals war/Red Demon, where did everyone go? | TODO |
+| 5 | Number One | King | Cradle / Graveyard | Leadership burden, cooked red flower ritual, red eyes, Jack night watch Pignons | TODO |
+| 6 | Market Day | Sue | Old Square | Traders (Cthulhu, beetle), Yomogi, news of human boy in Bushlands, pale red-eyed at edge | TODO |
+| 7 | The Key | Toroko | Shack | King demands Arthur's house key, Toroko refuses, hides in Shack, rumble above | TODO |
+| 8 | Huzzah! | Multi | Shack / Cradle | Misery+Balrog crash, take Toroko, King fights Balrog, Sue guilt | TODO |
+| | **PETAL TWO — STEMS** | | | Paths outward | |
+| 9 | The Cage | Sue | Cradle cage | Sue caged to trade for Toroko, confesses Doctor's red flower plan | TODO |
+| 10 | The Graveyard | Jack/King/Sue | Graveyard | Mushrooms, Gravekeeper knife, Arthur's grave empty, seal secret | TODO |
+| 11 | Arthur's House | Sue/King | Arthur's House | Spare key, teleporter, red petals, Arthur journal | TODO |
+| 12 | Toroko, Alone | Toroko | Doctor's cells | Cell, Balrog nervous jailer, Doctor learns she's Arthur's sister | TODO |
+| 13 | Egg Corridor | King | Egg Corridor | Dragon eggs, Igor = Hamachi reveal, Egg Observation Room Kazuma messages | TODO |
+| 14 | Grasstown | Sue/King | Grasstown | Chaco, Santa, Jellies, Critters, Cthulhu, Chaco's Arthur connection | TODO |
+| 15 | The Shelter | Sue | Shelter | Kazuma reunion, Booster, Balfrog (Balrog transformed), password clue | TODO |
+| 16 | The Soldier from the Surface | Jack | First Cave / Start Point | Jack finds sleeping robot above Cradle | TODO |
+| | **PETAL THREE — SOUL FLOWERS** | | | Addiction + deeper lore | |
+| 17 | Sand Zone | Quote/Curly via Mimiga eyes | Sand Zone | Curly + Colons, Quote ally, robots not all evil | TODO |
+| 18 | Jenka | King/Sue | Sand Zone | Jenka, 5 puppies, true war story, Mugen hints, storehouse red seeds | TODO |
+| 19 | The Storehouse | King | Sand Zone Storehouse | Doctor arrives with Toroko, offers King raw red flower to save her | TODO |
+| 20 | Wilt | King | Sand Zone | King frenzied, subdued not killed, Doctor escapes with seeds+Toroko | TODO |
+| 21 | The Terraces | Sue/King | Flower Terraces | Ume last flower-keeper, soul flower lore: dreambell, sorrowcup, pairbloom, lullaby | TODO |
+| 22 | The Plantation | Sue | Plantation | Enslaved Mimigas, Shovel Brigade, Momorin hideout backwards password, Shiso? | TODO |
+| 23 | Mahin Eats Alone | Mahin | Cradle | Cradle holds, lamplighter shows Jack what he's been keeping lit (Hall of Sleepers) | TODO |
+| 24 | Dreambell | Sue/King | Dream | Dream flower, visit dead, voice "Hello, little petal." | TODO |
+| | **PETAL FOUR — ROOTS** | | | Descent + truth | |
+| 25 | Bellwater | Sue | Bellwater | Lake town, Grandmother Shiso elder, council refuses aid, grieving mother Nazuna | TODO |
+| 26 | Down | Sue/King/Jack | Waterway | Into Waterway, Ironhead, Chinfish, below seal | TODO |
+| 27 | Longears | King | Deep | War frenzied who went deep not surface, dim memories, Arthur's lullaby | TODO |
+| 28 | Loophole | Balrog | Doctor's HQ | Balrog ordered guard door, not which side — helps | TODO |
+| 29 | The Labyrinth | Sue | Labyrinth | Gaudi prisoners, Monster X, Core heartbeat | TODO |
+| 30 | Mugen | Toroko/Arthur | Dream/Seal | What Mugen truly is: Ballos dream fragment, Arthur's soul as lock | TODO |
+| 31 | The Seal | Toroko | Graveyard | Toroko brought home, seal breaks, Mugen wakes, Sleepers rise | TODO |
+| 32 | Scattered | Multi | Cradle falls | Chaos, Cradle falls, everyone scatters | TODO |
+| | **PETAL FIVE — BLOOM** | | | Gathering + cure | |
+| 33 | Lamplighter | Hozuki | Old Village | Hozuki lights every lantern as signal | TODO |
+| 34 | Petals Return | Multi | Old Village | Scattered Mimigas return from all settlements | TODO |
+| 35 | Lullaby | Ume | Terraces | White bell cure, costly, spreads on wind, calms frenzied | TODO |
+| 36 | Balrog's Choice | Balrog | Various | Bumbling but kind, loophole-finding, freed | TODO |
+| 37 | Following Arthur | Toroko | Dream | Toroko follows Arthur into dream, confronts Mugen's lonely infinity | TODO |
+| 38 | King | King | Cradle/Plantation | Final stand vs Doctor + flower inside him, blade soul? | TODO |
+| 39 | The Crown and the Gem | Quote/Curly/Sue | Throne/Balcony | Eye destroyed, Doctor's fall, Red Crystal | TODO |
+| 40 | After | Sue | Cradle | Rebuilding, meal flowers after, Sue choice stay/go | TODO |
+| E | Epilogue: The Story of the Flower (Again) | Someone new | Cradle | Someone else tells tale full circle | TODO |
 
 ## Word Count Target
-- Per chapter: ~3000-5000 words?
-- Total: ~40k-60k?
+- Per chapter: ~3,500
+- Total: ~150k
+
+## Notes
+- Keep loglines vague to avoid spoilers
+- Installment 1 = Prologue + Ch1-2 (already drafted in gist thinking, needs cleaning)
+- Installment 2 planned = Ch3-5
