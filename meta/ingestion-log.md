@@ -13,7 +13,8 @@ This file tracks how huge model outputs were ingested WITHOUT flooding chat cont
 
 | Date | Chapter | Source URL / File | Word Count | Status | Commit |
 |------|---------|-------------------|------------|--------|--------|
-| 2026-09-22 | Index / Bible + Reasoning | https://gist.github.com/NomiSami/5dc16e7e75612fc3cb2d609005830208 (raw: https://gist.githubusercontent.com/NomiSami/5dc16e7e75612fc3cb2d609005830208/raw/e653b2833846097e81efce8340daf0f3d85873e3/gistfile1.txt) | ~25 chunks, ~20k thinking + ~4k final | Parsed into PROJECT_BIBLE, outline/*, lore/*, characters/*, prompts/system-prompt, meta/reasoning-distilled | Pending |
+| 2026-09-22 | Index / Bible + Reasoning | https://gist.github.com/NomiSami/5dc16e7e75612fc3cb2d609005830208 (raw: https://gist.githubusercontent.com/NomiSami/5dc16e7e75612fc3cb2d609005830208/raw/e653b2833846097e81efce8340daf0f3d85873e3/gistfile1.txt) | ~25 chunks, ~20k thinking + ~4k final | Parsed into PROJECT_BIBLE, outline/*, lore/*, characters/*, prompts/system-prompt, meta/reasoning-distilled | 4a4b0cb |
+| 2026-09-22 | Original Basic Outline (user seed) | https://gist.github.com/NomiSami/20103ea669af1e34617070d504abb98b (raw: https://gist.githubusercontent.com/NomiSami/20103ea669af1e34617070d504abb98b/raw/78ecab277e6607a7bb20307a1660c85d09872976/gistfile1.txt) | ~300 words | Saved verbatim to outline/original-basic-outline.md, cross-checked vs bible | Pending |
 |  |  |  |  |  |  |
 
 ## Notes
