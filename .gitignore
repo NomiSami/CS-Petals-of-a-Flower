@@ -1,0 +1,7 @@
+# Ignore large incoming raw dumps
+incoming/
+*.tmp
+.DS_Store
+
+# But keep drafts
+!drafts/
